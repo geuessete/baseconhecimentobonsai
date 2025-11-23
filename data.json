@@ -1,0 +1,979 @@
+[
+  {
+    "nome": "Junípero",
+    "nome_popular": "Junípero anão",
+    "nome_cientifico": "Juniperus procumbens nana",
+    "descricao": "Uma conífera clássica para bonsai, valorizada por sua folhagem de agulha curta e densa. É extremamente resistente e ideal para estilos shari (madeira morta) e jin. Requer poda e aramação intensas.",
+    "link": "https://pt.wikipedia.org/wiki/Juniperus_procumbens_nana",
+    "tags": [
+      "conífera",
+      "resistente",
+      "agula",
+      "clássica",
+      "jin_shari"
+    ]
+  },
+  {
+    "nome": "Ficus Retusa",
+    "nome_popular": "Figueira de Taiwan",
+    "nome_cientifico": "Ficus retusa",
+    "descricao": "Uma figueira tropical muito popular para iniciantes. Desenvolve raízes aéreas e troncos grossos rapidamente (nebari). É tolerante a erros e se recupera bem de podas severas.",
+    "link": "https://pt.wikipedia.org/wiki/Ficus_retusa",
+    "tags": [
+      "tropical",
+      "folhagem",
+      "iniciante",
+      "nebari",
+      "figueira"
+    ]
+  },
+  {
+    "nome": "Ulmeiro Chinês",
+    "nome_popular": "Ulmeiro",
+    "nome_cientifico": "Ulmus parvifolia",
+    "descricao": "Uma das árvores de folha caduca mais versáteis para bonsai. Suas folhas pequenas e crescimento rápido permitem que ela se adapte a quase todos os estilos. É resistente a doenças.",
+    "link": "https://pt.wikipedia.org/wiki/Ulmus_parvifolia",
+    "tags": [
+      "caduca",
+      "folhagem",
+      "versátil",
+      "iniciante"
+    ]
+  },
+  {
+    "nome": "Pinheiro Branco Japonês",
+    "nome_popular": "Pinus pentaphylla",
+    "nome_cientifico": "Pinus parviflora",
+    "descricao": "Um pinheiro de cinco agulhas altamente valorizado no Japão. Requer decandling (poda de velas) anual e cuidado especial com o solo. Suas agulhas são mais macias e curtas que as do Pinheiro Negro.",
+    "link": "https://pt.wikipedia.org/wiki/Pinus_parviflora",
+    "tags": [
+      "conífera",
+      "exigente",
+      "clássica",
+      "agula"
+    ]
+  },
+  {
+    "nome": "Sageretia",
+    "nome_popular": "Sageretia",
+    "nome_cientifico": "Sageretia theezans",
+    "descricao": "Arbusto subtropical conhecido por sua casca atraente, que se descasca naturalmente, e suas pequenas folhas. Cresce rapidamente e é adequado para climas quentes, mas deve ser protegido do frio intenso.",
+    "link": "https://en.wikipedia.org/wiki/Sageretia_theezans",
+    "tags": [
+      "subtropical",
+      "casca_atraente",
+      "arbusto",
+      "rápido_crescimento"
+    ]
+  },
+  {
+    "nome": "Chá de Fukien",
+    "nome_popular": "Carmona",
+    "nome_cientifico": "Carmona microphylla",
+    "descricao": "Planta tropical de floração constante, produzindo pequenas flores brancas e minúsculos frutos vermelhos. Exige alta umidade e temperaturas estáveis, sendo ideal para cultivo interno ou estufas.",
+    "link": "https://pt.wikipedia.org/wiki/Carmona_microphylla",
+    "tags": [
+      "tropical",
+      "flor",
+      "fruto",
+      "interior"
+    ]
+  },
+  {
+    "nome": "Zelkova",
+    "nome_popular": "Zelkova japonesa",
+    "nome_cientifico": "Zelkova serrata",
+    "descricao": "Muito utilizada no Japão para o estilo 'Hokidachi' (vassoura), devido ao seu padrão de ramificação fino e ereto. Possui uma folhagem que adquire cores vibrantes no outono.",
+    "link": "https://pt.wikipedia.org/wiki/Zelkova_serrata",
+    "tags": [
+      "caduca",
+      "folhagem",
+      "outono",
+      "hokidachi"
+    ]
+  },
+  {
+    "nome": "Pyracantha",
+    "nome_popular": "Espinho de Fogo",
+    "nome_cientifico": "Pyracantha coccinea",
+    "descricao": "Arbusto conhecido por suas profusas flores brancas na primavera, seguidas por cachos densos de pequenas frutas vermelhas ou alaranjadas no outono, que duram até o inverno.",
+    "link": "https://pt.wikipedia.org/wiki/Pyracantha_coccinea",
+    "tags": [
+      "arbusto",
+      "fruto",
+      "flor",
+      "espinhos"
+    ]
+  },
+  {
+    "nome": "Oliveira",
+    "nome_popular": "Oliveira europeia",
+    "nome_cientifico": "Olea europaea",
+    "descricao": "Planta mediterrânea que forma troncos rugosos e antigos rapidamente. Requer sol pleno e resiste bem a períodos de seca. A folhagem densa e prateada é facilmente miniaturizada.",
+    "link": "https://pt.wikipedia.org/wiki/Olea_europaea",
+    "tags": [
+      "mediterrânea",
+      "folhagem",
+      "tronco_antigo",
+      "resistente_a_seca"
+    ]
+  },
+  {
+    "nome": "Jasmim Laranja",
+    "nome_popular": "Murraya",
+    "nome_cientifico": "Murraya paniculata",
+    "descricao": "Arbusto tropical/subtropical valorizado por suas folhas brilhantes e suas flores brancas intensamente perfumadas, que lembram o jasmim. É excelente para formação de ramificação fina e densa.",
+    "link": "https://pt.wikipedia.org/wiki/Murraya_paniculata",
+    "tags": [
+      "tropical",
+      "flor",
+      "arbusto",
+      "perfumado"
+    ]
+  },
+  {
+    "nome": "Pata de Elefante",
+    "nome_popular": "Jade Anão",
+    "nome_cientifico": "Portulacaria afra",
+    "descricao": "Suculenta popular que pode ser treinada como bonsai. Seu crescimento rápido e sua habilidade de criar troncos inchados e arredondados a tornam ideal para estilos grossos e informais. Exige pouca água.",
+    "link": "https://pt.wikipedia.org/wiki/Portulacaria_afra",
+    "tags": [
+      "suculenta",
+      "tropical",
+      "iniciante",
+      "tronco_grosso"
+    ]
+  },
+  {
+    "nome": "Teixo",
+    "nome_popular": "Teixo europeu",
+    "nome_cientifico": "Taxus baccata",
+    "descricao": "Uma conífera clássica e de crescimento lento, conhecida por sua longevidade e madeira resistente. Tolera poda severa e é excelente para estilos de madeira morta (jin e shari).",
+    "link": "https://pt.wikipedia.org/wiki/Taxus_baccata",
+    "tags": [
+      "conífera",
+      "lento_crescimento",
+      "madeira_morta",
+      "longevidade"
+    ]
+  },
+  {
+    "nome": "Jabuticabeira",
+    "nome_popular": "Jabuticaba",
+    "nome_cientifico": "Myrciaria cauliflora",
+    "descricao": "Espécie brasileira popular, valorizada por sua casca lisa e a frutificação no tronco. Requer calor e alta umidade. A folhagem se miniaturiza bem com podas regulares.",
+    "link": "https://pt.wikipedia.org/wiki/Myrciaria_cauliflora",
+    "tags": [
+      "tropical",
+      "fruto",
+      "nativa_brasil",
+      "flor"
+    ]
+  },
+  {
+    "nome": "Ligustro Chinês",
+    "nome_popular": "Ligustro",
+    "nome_cientifico": "Ligustrum sinense",
+    "descricao": "Extremamente resistente e de crescimento vigoroso. É muito utilizado para formar densas almofadas de folhagem e se recupera rapidamente de podas drásticas. Adaptável a diferentes climas.",
+    "link": "https://pt.wikipedia.org/wiki/Ligustrum_sinense",
+    "tags": [
+      "folhagem",
+      "rápido_crescimento",
+      "resistente",
+      "arbusto"
+    ]
+  },
+  {
+    "nome": "Azaleia Satsuki",
+    "nome_popular": "Azaleia",
+    "nome_cientifico": "Rhododendron indicum",
+    "descricao": "Amada por suas espetaculares florações coloridas que cobrem a árvore inteira. Requer solo ácido e cuidados específicos. A poda deve ser feita logo após a floração.",
+    "link": "https://pt.wikipedia.org/wiki/Rhododendron_indicum",
+    "tags": [
+      "flor",
+      "exigente",
+      "arbusto",
+      "solo_ácido"
+    ]
+  },
+  {
+    "nome": "Podocarpus",
+    "nome_popular": "Podocarpus Yew",
+    "nome_cientifico": "Podocarpus macrophyllus",
+    "descricao": "Uma excelente opção para bonsai, com folhagem perene de agulhas longas, mas macias. É fácil de treinar e tolera tanto a luz intensa quanto a sombra parcial. Crescimento moderado.",
+    "link": "https://pt.wikipedia.org/wiki/Podocarpus_macrophyllus",
+    "tags": [
+      "perene",
+      "conífera",
+      "iniciante",
+      "folhagem"
+    ]
+  },
+  {
+    "nome": "Bougainvillea",
+    "nome_popular": "Primavera",
+    "nome_cientifico": "Bougainvillea spectabilis",
+    "descricao": "Planta tropical/subtropical famosa por suas cores vibrantes (brácteas). Prospera em pleno sol e necessita de pouca água para florescer abundantemente. Seu tronco envelhece rapidamente.",
+    "link": "https://pt.wikipedia.org/wiki/Bougainvillea_spectabilis",
+    "tags": [
+      "tropical",
+      "flor",
+      "sol_pleno",
+      "arbusto"
+    ]
+  },
+  {
+    "nome": "Carpinus",
+    "nome_popular": "Carpino Coreano",
+    "nome_cientifico": "Carpinus turczaninowii",
+    "descricao": "Árvore caduca com folhagem que miniaturiza bem e adquire cores douradas espetaculares no outono. É resistente e desenvolve bom nebari (base do tronco) rapidamente.",
+    "link": "https://en.wikipedia.org/wiki/Carpinus_turczaninowii",
+    "tags": [
+      "caduca",
+      "folhagem",
+      "outono",
+      "nebari"
+    ]
+  },
+  {
+    "nome": "Romã",
+    "nome_popular": "Romãzeira",
+    "nome_cientifico": "Punica granatum",
+    "descricao": "Cultivada por suas flores vermelhas ornamentais e a produção de pequenos frutos. Prefere climas quentes e sol pleno. Resiste bem à poda e à aramação.",
+    "link": "https://pt.wikipedia.org/wiki/Punica_granatum",
+    "tags": [
+      "fruto",
+      "flor",
+      "caduca",
+      "sol_pleno"
+    ]
+  },
+  {
+    "nome": "Grewia",
+    "nome_popular": "Estrela Lavanda",
+    "nome_cientifico": "Grewia occidentalis",
+    "descricao": "Arbusto sul-africano com flores roxas ou lavanda em formato de estrela. Cresce vigorosamente e é tolerante a diversos estilos, sendo uma boa planta para iniciantes em áreas mais quentes.",
+    "link": "https://en.wikipedia.org/wiki/Grewia_occidentalis",
+    "tags": [
+      "arbusto",
+      "flor",
+      "subtropical",
+      "iniciante"
+    ]
+  },
+  {
+    "nome": "Metasequoia",
+    "nome_popular": "Sequoia do Amanhecer",
+    "nome_cientifico": "Metasequoia glyptostroboides",
+    "descricao": "Conífera decídua, incomum por perder suas agulhas no inverno. Forma troncos maciços e cônicos rapidamente. Ideal para estilos de grande porte e requer muita água.",
+    "link": "https://pt.wikipedia.org/wiki/Metasequoia_glyptostroboides",
+    "tags": [
+      "conífera_caduca",
+      "crescimento_rápido",
+      "grande_porte",
+      "exigente_água"
+    ]
+  },
+  {
+    "nome": "Serissa",
+    "nome_popular": "Serissa",
+    "nome_cientifico": "Serissa foetida",
+    "descricao": "Arbusto pequeno de folhagem minúscula e floração branca abundante, especialmente na primavera. É sensível a mudanças ambientais (o que lhe rende o apelido de 'árvore dos mil mistérios'), mas excelente para ramificação fina.",
+    "link": "https://pt.wikipedia.org/wiki/Serissa_foetida",
+    "tags": [
+      "arbusto",
+      "flor",
+      "delicada",
+      "interior"
+    ]
+  },
+  {
+    "nome": "Buxo",
+    "nome_popular": "Buxo japonês",
+    "nome_cientifico": "Buxus microphylla",
+    "descricao": "Perene de crescimento lento, valorizado pela sua folhagem compacta e densa que permite a criação de formas muito definidas e esculturais. É altamente resistente à poda pesada.",
+    "link": "https://pt.wikipedia.org/wiki/Buxus_microphylla",
+    "tags": [
+      "perene",
+      "lento_crescimento",
+      "folhagem_densa",
+      "arbusto"
+    ]
+  },
+  {
+    "nome": "Abeto da Noruega",
+    "nome_popular": "Picea",
+    "nome_cientifico": "Picea abies",
+    "descricao": "Uma conífera clássica de clima frio, com agulhas curtas e pontudas. Demanda aramação e pinçamento constantes para manter a compactação. Excelente para estilos verticais formais.",
+    "link": "https://pt.wikipedia.org/wiki/Picea_abies",
+    "tags": [
+      "conífera",
+      "clima_frio",
+      "exigente",
+      "pinçamento"
+    ]
+  },
+  {
+    "nome": "Resedá",
+    "nome_popular": "Crape Myrtle",
+    "nome_cientifico": "Lagerstroemia indica",
+    "descricao": "Árvore popular por suas longas e duradouras florações em tons de rosa, branco ou roxo durante o verão. Sua casca suave e manchada é um atrativo visual no inverno. Adequada para climas quentes.",
+    "link": "https://pt.wikipedia.org/wiki/Lagerstroemia_indica",
+    "tags": [
+      "flor",
+      "casca_atraente",
+      "caduca",
+      "sol_pleno"
+    ]
+  },
+  {
+    "nome": "Bordo Japonês",
+    "nome_popular": "Bordo palmatum",
+    "nome_cientifico": "Acer palmatum",
+    "descricao": "Uma das espécies mais icônicas para bonsai, valorizada pela sua folhagem delicada, cores outonais vibrantes e fácil ramificação. É ideal para estilos formais e informais.",
+    "link": "https://pt.wikipedia.org/wiki/Acer_palmatum",
+    "tags": [
+      "folhagem",
+      "caducifólia",
+      "árvore",
+      "outonal"
+    ]
+  },
+  {
+    "nome": "Pinheiro Negro Japonês",
+    "nome_popular": "Pinheiro Japonês",
+    "nome_cientifico": "Pinus thunbergii",
+    "descricao": "Conífera robusta, altamente valorizada pela casca escura e aspecto rústico. É a espécie clássica para estilos que replicam árvores solitárias e expostas ao vento.",
+    "link": "https://pt.wikipedia.org/wiki/Pinus_thunbergii",
+    "tags": [
+      "conífera",
+      "perenifólia",
+      "árvore",
+      "rústica"
+    ]
+  },
+  {
+    "nome": "Bordo Trident",
+    "nome_popular": "Bordo chinês",
+    "nome_cientifico": "Acer buergerianum",
+    "descricao": "Bordo de três pontas, conhecido por sua casca que se descama com a idade, suas raízes fortes (nebari) e resistência. Muito usado em formações de floresta e paisagens rochosas.",
+    "link": "https://pt.wikipedia.org/wiki/Acer_buergerianum",
+    "tags": [
+      "folhagem",
+      "caducifólia",
+      "árvore",
+      "nebari"
+    ]
+  },
+  {
+    "nome": "Ginkgo",
+    "nome_popular": "Ginkgo Biloba",
+    "nome_cientifico": "Ginkgo biloba",
+    "descricao": "Uma espécie única e primitiva, famosa por suas folhas em forma de leque que ficam em um amarelo dourado brilhante no outono. Exige atenção especial ao desfolhamento.",
+    "link": "https://pt.wikipedia.org/wiki/Ginkgo_biloba",
+    "tags": [
+      "folhagem",
+      "caducifólia",
+      "árvore",
+      "primitiva"
+    ]
+  },
+  {
+    "nome": "Faia Europeia",
+    "nome_popular": "Faia",
+    "nome_cientifico": "Fagus sylvatica",
+    "descricao": "Árvore de tronco liso e folhas ovais que adquirem tons avermelhados no outono. É difícil de ramificar, exigindo paciência, mas resulta em belos exemplares densos.",
+    "link": "https://pt.wikipedia.org/wiki/Fagus_sylvatica",
+    "tags": [
+      "folhagem",
+      "caducifólia",
+      "árvore",
+      "continental"
+    ]
+  },
+  {
+    "nome": "Cipreste Calvo",
+    "nome_popular": "Cipreste do pântano",
+    "nome_cientifico": "Taxodium distichum",
+    "descricao": "Conífera caducifólia que perde suas agulhas no outono, com cores bronzeadas impressionantes. Ideal para estilos aquáticos ou de pântano (Bog Style).",
+    "link": "https://pt.wikipedia.org/wiki/Taxodium_distichum",
+    "tags": [
+      "conífera",
+      "caducifólia",
+      "aquática",
+      "outonal"
+    ]
+  },
+  {
+    "nome": "Maçã de Jardim",
+    "nome_popular": "Crabapple",
+    "nome_cientifico": "Malus spp.",
+    "descricao": "Cultivada por suas flores abundantes na primavera e seus pequenos frutos decorativos no outono. Exige boa poda de floração para manter a saúde e a forma.",
+    "link": "https://pt.wikipedia.org/wiki/Malus",
+    "tags": [
+      "flor",
+      "fruto",
+      "caducifólia",
+      "ornamental"
+    ]
+  },
+  {
+    "nome": "Estrela de Natal",
+    "nome_popular": "Jasmim de Estrela",
+    "nome_cientifico": "Wrightia religiosa",
+    "descricao": "Uma espécie tropical popular para bonsai, conhecida por suas folhas pequenas e minúsculas flores brancas perfumadas que desabrocham repetidamente.",
+    "link": "https://en.wikipedia.org/wiki/Wrightia_religiosa",
+    "tags": [
+      "tropical",
+      "flor",
+      "arbusto",
+      "perenifólia"
+    ]
+  },
+  {
+    "nome": "Mirto",
+    "nome_popular": "Murta",
+    "nome_cientifico": "Myrtus communis",
+    "descricao": "Arbusto perenifólio com folhas pequenas, brilhantes e aromáticas. Produz pequenas flores brancas e frutos roxos, sendo muito utilizado para criar folhagens densas e compactas.",
+    "link": "https://pt.wikipedia.org/wiki/Myrtus_communis",
+    "tags": [
+      "arbusto",
+      "perenifólia",
+      "aromática",
+      "mediterrânea"
+    ]
+  },
+  {
+    "nome": "Jacarandá Mimoso",
+    "nome_popular": "Jacarandá",
+    "nome_cientifico": "Jacaranda mimosifolia",
+    "descricao": "Famoso por suas flores azuis/roxas espetaculares. Suas folhas são delicadas e compostas, o que permite a redução do tamanho, mas o crescimento pode ser rápido.",
+    "link": "https://pt.wikipedia.org/wiki/Jacaranda_mimosifolia",
+    "tags": [
+      "flor",
+      "tropical",
+      "árvore",
+      "folhagem_delicada"
+    ]
+  },
+  {
+    "nome": "Cerejeira Ornamental",
+    "nome_popular": "Prunus",
+    "nome_cientifico": "Prunus serrulata",
+    "descricao": "Embora o tronco seja difícil de refinar, é cultivada para exibir a espetacular floração primaveril. Requer poda cuidadosa após a floração.",
+    "link": "https://pt.wikipedia.org/wiki/Prunus_serrulata",
+    "tags": [
+      "flor",
+      "caducifólia",
+      "primavera",
+      "árvore"
+    ]
+  },
+  {
+    "nome": "Tamarisco",
+    "nome_popular": "Tamarix",
+    "nome_cientifico": "Tamarix spp.",
+    "descricao": "Conhecido por sua resistência à salinidade e ventos, e por suas plumas de flores rosadas ou brancas que aparecem na primavera e verão. É fácil de enraizar.",
+    "link": "https://pt.wikipedia.org/wiki/Tamarix",
+    "tags": [
+      "arbusto",
+      "flor",
+      "resistente",
+      "folhagem"
+    ]
+  },
+  {
+    "nome": "Cidreira",
+    "nome_popular": "Laranjeira",
+    "nome_cientifico": "Citrus spp.",
+    "descricao": "As espécies de citrinos são populares por suas flores perfumadas e pela capacidade de produzir pequenos frutos comestíveis em miniatura. Exigem proteção contra o frio intenso.",
+    "link": "https://pt.wikipedia.org/wiki/Citrus",
+    "tags": [
+      "fruto",
+      "flor",
+      "tropical",
+      "perenifólia"
+    ]
+  },
+  {
+    "nome": "Cedro do Atlas",
+    "nome_popular": "Cedro",
+    "nome_cientifico": "Cedrus atlantica",
+    "descricao": "Uma conífera que desenvolve uma estrutura dramática e uma casca rugosa com a idade. Ideal para estilos imponentes e grandes, mas as agulhas longas dificultam o refinamento.",
+    "link": "https://pt.wikipedia.org/wiki/Cedrus_atlantica",
+    "tags": [
+      "conífera",
+      "perenifólia",
+      "árvore",
+      "majestosa"
+    ]
+  },
+  {
+    "nome": "Cipreste Hinoki",
+    "nome_popular": "Hinoki",
+    "nome_cientifico": "Chamaecyparis obtusa",
+    "descricao": "Conífera de folhagem em escala, conhecida por sua textura exuberante e crescimento denso. Requer umidade e tolera bem o sombreamento parcial.",
+    "link": "https://pt.wikipedia.org/wiki/Chamaecyparis_obtusa",
+    "tags": [
+      "conífera",
+      "perenifólia",
+      "textura",
+      "folhagem"
+    ]
+  },
+  {
+    "nome": "Bambu Sagrado",
+    "nome_popular": "Nandina",
+    "nome_cientifico": "Nandina domestica",
+    "descricao": "Arbusto valorizado por sua folhagem de inverno que muda para tons de vermelho e laranja, além de cachos de frutos vermelhos brilhantes. É excelente para paisagens de inverno.",
+    "link": "https://pt.wikipedia.org/wiki/Nandina_domestica",
+    "tags": [
+      "arbusto",
+      "folhagem",
+      "fruto",
+      "outonal"
+    ]
+  },
+  {
+    "nome": "Oliveirinha",
+    "nome_popular": "Phillyrea",
+    "nome_cientifico": "Phillyrea angustifolia",
+    "descricao": "Arbusto mediterrâneo com folhas estreitas e crescimento lento. Embora não seja uma oliveira, é frequentemente usada por sua aparência de folha pequena e resistência.",
+    "link": "https://en.wikipedia.org/wiki/Phillyrea_angustifolia",
+    "tags": [
+      "arbusto",
+      "mediterrânea",
+      "perenifólia",
+      "resistente"
+    ]
+  },
+  {
+    "nome": "Goiaba",
+    "nome_popular": "Goiabeira",
+    "nome_cientifico": "Psidium guajava",
+    "descricao": "Espécie tropical popular no Brasil. Sua casca se descama, revelando tons de verde e marrom. Produz flores e frutos pequenos e é vigorosa.",
+    "link": "https://pt.wikipedia.org/wiki/Goiaba",
+    "tags": [
+      "fruto",
+      "tropical",
+      "casca_interessante",
+      "árvore"
+    ]
+  },
+  {
+    "nome": "Picea Anã",
+    "nome_popular": "Picea cônica",
+    "nome_cientifico": "Picea glauca 'Conica'",
+    "descricao": "Uma conífera de crescimento lento e forma naturalmente cônica, o que a torna ideal para criar pinheiros em miniatura. Requer proteção contra sol forte no verão.",
+    "link": "https://pt.wikipedia.org/wiki/Picea_glauca",
+    "tags": [
+      "conífera",
+      "perenifólia",
+      "anã",
+      "crescimento_lento"
+    ]
+  },
+  {
+    "nome": "Acácia Negra",
+    "nome_popular": "Acácia-da-austrália",
+    "nome_cientifico": "Acacia mearnsii",
+    "descricao": "Espécie de crescimento rápido que desenvolve casca rugosa rapidamente. Boa para iniciantes, permite treino vigoroso, mas requer poda constante para manter a redução foliar.",
+    "link": "https://pt.wikipedia.org/wiki/Acacia_mearnsii",
+    "tags": [
+      "arbusto",
+      "tropical",
+      "crescimento_rápido",
+      "folhagem"
+    ]
+  },
+  {
+    "nome": "Jurema",
+    "nome_popular": "Pithecolobium tortum",
+    "nome_cientifico": "Chloroleucon tortum",
+    "descricao": "Também conhecida como \"Árvore da Chuva Brasileira\". Tem uma folhagem que se fecha à noite e é altamente valorizada por seus movimentos de tronco e boa cicatrização.",
+    "link": "https://pt.wikipedia.org/wiki/Chloroleucon_tortum",
+    "tags": [
+      "tropical",
+      "folhagem",
+      "árvore",
+      "movimento"
+    ]
+  },
+  {
+    "nome": "Lilly Pilly",
+    "nome_popular": "Cereja Australiana",
+    "nome_cientifico": "Syzygium paniculatum",
+    "descricao": "Espécie australiana com folhas pequenas e novas brotações em tons de rosa. Produz pequenos frutos comestíveis. É robusta e tolera bem a poda severa.",
+    "link": "https://en.wikipedia.org/wiki/Syzygium_paniculatum",
+    "tags": [
+      "arbusto",
+      "australiana",
+      "tropical",
+      "fruto"
+    ]
+  },
+  {
+    "nome": "Sequoia",
+    "nome_popular": "Sequoia Vermelha",
+    "nome_cientifico": "Sequoia sempervirens",
+    "descricao": "Embora seja a maior árvore do mundo, em bonsai ela é cultivada por sua casca avermelhada e excelente capacidade de brotar a partir da madeira antiga. Crescimento muito rápido.",
+    "link": "https://pt.wikipedia.org/wiki/Sequoia_sempervirens",
+    "tags": [
+      "conífera",
+      "gigante",
+      "crescimento_rápido",
+      "árvore"
+    ]
+  },
+  {
+    "nome": "Cheflera",
+    "nome_popular": "Árvore guarda-chuva",
+    "nome_cientifico": "Schefflera arboricola",
+    "descricao": "Uma espécie tropical extremamente resistente e de fácil cuidado. Pode ser cultivada em ambientes internos e tem grande capacidade de inchaço do tronco e aéreos.",
+    "link": "https://pt.wikipedia.org/wiki/Schefflera_arboricola",
+    "tags": [
+      "tropical",
+      "interna",
+      "resistente",
+      "folhagem"
+    ]
+  },
+  {
+    "nome": "Bordo Amur",
+    "nome_popular": "Acer ginnala",
+    "nome_cientifico": "Acer ginnala",
+    "descricao": "Parente próximo do Bordo Japonês, conhecido por sua alta resistência ao frio e suas espetaculares cores vermelhas e carmesins no outono. Ideal para climas mais frios.",
+    "link": "https://pt.wikipedia.org/wiki/Acer_ginnala",
+    "tags": [
+      "folhagem",
+      "caducifólia",
+      "resistente_ao_frio",
+      "outonal"
+    ]
+  },
+  {
+    "nome": "Bordo Açucareiro",
+    "nome_popular": "Sugar Maple",
+    "nome_cientifico": "Acer saccharum",
+    "descricao": "É uma espécie decídua valorizada pela sua folhagem de outono vibrante e pela boa ramificação. Requer proteção contra o calor intenso e poda cuidadosa para manter a redução foliar.",
+    "link": "https://pt.wikipedia.org/wiki/Acer_saccharum",
+    "tags": [
+      "folhagem",
+      "decídua",
+      "árvore",
+      "temperada"
+    ]
+  },
+  {
+    "nome": "Maçã Silvestre",
+    "nome_popular": "Crab Apple",
+    "nome_cientifico": "Malus halliana",
+    "descricao": "Usada no bonsai por suas flores abundantes na primavera e pequenos frutos vermelhos no outono. Necessita de boa aeração e poda para estimular a floração e frutificação.",
+    "link": "https://en.wikipedia.org/wiki/Malus_halliana",
+    "tags": [
+      "flor",
+      "frutífera",
+      "decídua",
+      "árvore"
+    ]
+  },
+  {
+    "nome": "Glicínia",
+    "nome_popular": "Wisteria",
+    "nome_cientifico": "Wisteria sinensis",
+    "descricao": "Famosa por suas longas e perfumadas inflorescências pendentes. Deve ser cultivada com poda drástica de raízes e ramos para controlar seu vigoroso crescimento e promover flores compactas.",
+    "link": "https://pt.wikipedia.org/wiki/Wisteria_sinensis",
+    "tags": [
+      "flor",
+      "trepadeira",
+      "decídua",
+      "cascata"
+    ]
+  },
+  {
+    "nome": "Espinheiro",
+    "nome_popular": "Hawthorn",
+    "nome_cientifico": "Crataegus monogyna",
+    "descricao": "Apreciado por sua casca rugosa, flores brancas ou rosadas e pequenos frutos. É uma espécie robusta, mas sensível a arames se deixados por muito tempo.",
+    "link": "https://en.wikipedia.org/wiki/Crataegus_monogyna",
+    "tags": [
+      "flor",
+      "frutífera",
+      "árvore",
+      "decídua"
+    ]
+  },
+  {
+    "nome": "Ameixeira Brava",
+    "nome_popular": "Blackthorn",
+    "nome_cientifico": "Prunus spinosa",
+    "descricao": "Uma espécie europeia de crescimento lento, que produz lindas flores brancas antes das folhas. Desenvolve rapidamente uma casca antiga e texturizada, ideal para estilos maduros.",
+    "link": "https://en.wikipedia.org/wiki/Prunus_spinosa",
+    "tags": [
+      "flor",
+      "frutífera",
+      "decídua",
+      "árvore"
+    ]
+  },
+  {
+    "nome": "Cryptomeria",
+    "nome_popular": "Cedro Japonês",
+    "nome_cientifico": "Cryptomeria japonica",
+    "descricao": "Conífera perenifólia com folhagem densa e macia. Requer desfolha parcial e constante pinçagem para manter a densidade da folhagem e reduzir o tamanho dos internódios.",
+    "link": "https://pt.wikipedia.org/wiki/Cryptomeria_japonica",
+    "tags": [
+      "conífera",
+      "folhagem",
+      "árvore",
+      "japonesa"
+    ]
+  },
+  {
+    "nome": "Larix",
+    "nome_popular": "Lariço Europeu",
+    "nome_cientifico": "Larix decidua",
+    "descricao": "Uma das poucas coníferas decíduas, o Larix é amado por suas agulhas macias que mudam para um dourado espetacular no outono. Responde bem à poda e é excelente para estilos de floresta.",
+    "link": "https://pt.wikipedia.org/wiki/Larix_decidua",
+    "tags": [
+      "conífera",
+      "decídua",
+      "árvore",
+      "temperada"
+    ]
+  },
+  {
+    "nome": "Salgueiro",
+    "nome_popular": "Willow",
+    "nome_cientifico": "Salix babylonica",
+    "descricao": "Cresce rapidamente e é ideal para estilos chorões ou cascatas. Requer poda constante e muita água. Fácil de enraizar por estaca.",
+    "link": "https://pt.wikipedia.org/wiki/Salix_babylonica",
+    "tags": [
+      "decídua",
+      "cascata",
+      "árvore",
+      "água"
+    ]
+  },
+  {
+    "nome": "Cotoneaster",
+    "nome_popular": "Cotoneaster",
+    "nome_cientifico": "Cotoneaster horizontalis",
+    "descricao": "Arbusto usado para bonsai por seus pequenos frutos vermelhos que duram o inverno. Sua ramificação em espinha de peixe (horizontalis) é ideal para preenchimento de copas.",
+    "link": "https://en.wikipedia.org/wiki/Cotoneaster_horizontalis",
+    "tags": [
+      "arbusto",
+      "frutífera",
+      "folhagem",
+      "decídua"
+    ]
+  },
+  {
+    "nome": "Carissa",
+    "nome_popular": "Natal Plum",
+    "nome_cientifico": "Carissa macrocarpa",
+    "descricao": "Uma espécie subtropical/tropical que produz flores brancas perfumadas e frutos comestíveis. É tolerante à seca e resiste bem à poda drástica, sendo ideal para iniciantes em climas quentes.",
+    "link": "https://en.wikipedia.org/wiki/Carissa_macrocarpa",
+    "tags": [
+      "arbusto",
+      "flor",
+      "frutífera",
+      "tropical"
+    ]
+  },
+  {
+    "nome": "Aroeira Salsa",
+    "nome_popular": "Pimenta Rosa",
+    "nome_cientifico": "Schinus molle",
+    "descricao": "Possui uma casca interessante e folhagem pendente, criando um efeito elegante. Tolera condições secas e precisa de arame apenas em ramos jovens, pois os mais velhos são frágeis.",
+    "link": "https://pt.wikipedia.org/wiki/Schinus_molle",
+    "tags": [
+      "tropical",
+      "árvore",
+      "casca",
+      "resistente"
+    ]
+  },
+  {
+    "nome": "Camélia",
+    "nome_popular": "Camellia",
+    "nome_cientifico": "Camellia japonica",
+    "descricao": "Perenifólia conhecida por suas flores espetaculares de inverno e primavera. Requer solo ácido e proteção contra sol forte para evitar que as folhas e flores queimem.",
+    "link": "https://pt.wikipedia.org/wiki/Camellia_japonica",
+    "tags": [
+      "flor",
+      "perenifólia",
+      "arbusto",
+      "japonesa"
+    ]
+  },
+  {
+    "nome": "Azevinho Japonês",
+    "nome_popular": "Japanese Holly",
+    "nome_cientifico": "Ilex crenata",
+    "descricao": "Excelente substituto para o Buxo, com folhas minúsculas e escuras. É muito resistente à poda e ao arame, permitindo a criação de almofadas de folhagem densas.",
+    "link": "https://en.wikipedia.org/wiki/Ilex_crenata",
+    "tags": [
+      "perenifólia",
+      "folhagem",
+      "arbusto",
+      "japonesa"
+    ]
+  },
+  {
+    "nome": "Celtis",
+    "nome_popular": "Chinese Hackberry",
+    "nome_cientifico": "Celtis sinensis",
+    "descricao": "Semelhante ao Ulmeiro, mas menos comum. É uma decídua que desenvolve um bom nebari e casca rapidamente. Responde bem à defoliação total para redução foliar.",
+    "link": "https://en.wikipedia.org/wiki/Celtis_sinensis",
+    "tags": [
+      "decídua",
+      "folhagem",
+      "árvore",
+      "fácil"
+    ]
+  },
+  {
+    "nome": "Pistacheiro",
+    "nome_popular": "Pistacia",
+    "nome_cientifico": "Pistacia chinensis",
+    "descricao": "Valorizado por suas folhas pinadas que produzem tons espetaculares de vermelho, laranja e amarelo no outono. Necessita de sol pleno para coloração máxima.",
+    "link": "https://pt.wikipedia.org/wiki/Pistacia_chinensis",
+    "tags": [
+      "decídua",
+      "folhagem",
+      "árvore",
+      "cores outono"
+    ]
+  },
+  {
+    "nome": "Eugenia",
+    "nome_popular": "Cereja-de-arbusto",
+    "nome_cientifico": "Syzygium paniculatum",
+    "descricao": "Espécie subtropical com folhas brilhantes e novas brotações em tons de vermelho. Produz pequenos frutos roxos comestíveis. Responde muito bem à poda de pinçagem.",
+    "link": "https://pt.wikipedia.org/wiki/Syzygium_paniculatum",
+    "tags": [
+      "tropical",
+      "arbusto",
+      "frutífera",
+      "perenifólia"
+    ]
+  },
+  {
+    "nome": "Buddleia",
+    "nome_popular": "Arbusto da Borboleta",
+    "nome_cientifico": "Buddleja davidii",
+    "descricao": "Embora de crescimento muito rápido, é usado no bonsai por suas flores em espigas que atraem borboletas. Requer poda severa anual após a floração para manter a forma compacta.",
+    "link": "https://pt.wikipedia.org/wiki/Buddleja_davidii",
+    "tags": [
+      "flor",
+      "arbusto",
+      "rápido crescimento",
+      "decídua"
+    ]
+  },
+  {
+    "nome": "Pemphis",
+    "nome_popular": "Pemphis",
+    "nome_cientifico": "Pemphis acidula",
+    "descricao": "Planta tropical de zonas costeiras, conhecida pela sua madeira densa e casca cinzenta-avermelhada. É excepcionalmente resistente e excelente para estilos dramáticos ou na água.",
+    "link": "https://en.wikipedia.org/wiki/Pemphis_acidula",
+    "tags": [
+      "tropical",
+      "resistente",
+      "casca",
+      "costeira"
+    ]
+  },
+  {
+    "nome": "Casuarina",
+    "nome_popular": "Sheoak",
+    "nome_cientifico": "Casuarina equisetifolia",
+    "descricao": "Apresenta folhagem filamentosa que se assemelha a agulhas. É robusta, tolera ventos e salinidade. Requer muita pinçagem para criar ramificação fina e densa.",
+    "link": "https://pt.wikipedia.org/wiki/Casuarina_equisetifolia",
+    "tags": [
+      "tropical",
+      "rápido crescimento",
+      "folhagem fina",
+      "resistente"
+    ]
+  },
+  {
+    "nome": "Ixora",
+    "nome_popular": "Ixora",
+    "nome_cientifico": "Ixora coccinea",
+    "descricao": "Arbusto tropical perenifólio famoso por suas grandes inflorescências esféricas, geralmente vermelhas ou laranjas. Floresce prolificamente sob sol pleno e calor.",
+    "link": "https://pt.wikipedia.org/wiki/Ixora_coccinea",
+    "tags": [
+      "flor",
+      "arbusto",
+      "tropical",
+      "perenifólia"
+    ]
+  },
+  {
+    "nome": "Jasmim Estrela",
+    "nome_popular": "Star Jasmine",
+    "nome_cientifico": "Trachelospermum jasminoides",
+    "descricao": "Trepadeira com folhas brilhantes e pequenas flores brancas intensamente perfumadas. Embora seja uma trepadeira, pode ser cultivada como arbusto compactado no bonsai.",
+    "link": "https://pt.wikipedia.org/wiki/Trachelospermum_jasminoides",
+    "tags": [
+      "flor",
+      "trepadeira",
+      "perfumada",
+      "perenifólia"
+    ]
+  },
+  {
+    "nome": "Pinheiro Branco Americano",
+    "nome_popular": "Eastern White Pine",
+    "nome_cientifico": "Pinus strobus",
+    "descricao": "Pinheiro de cinco agulhas, com agulhas mais longas que o Pinheiro Branco Japonês, mas ainda maleáveis. Requer pinçagem de velas rigorosa para reduzir o comprimento dos internódios.",
+    "link": "https://pt.wikipedia.org/wiki/Pinus_strobus",
+    "tags": [
+      "conífera",
+      "cinco agulhas",
+      "árvore",
+      "temperada"
+    ]
+  },
+  {
+    "nome": "Aroeira-Vermelha",
+    "nome_popular": "Brazilian Pepper",
+    "nome_cientifico": "Schinus terebinthifolius",
+    "descricao": "Uma espécie sul-americana robusta e de rápido crescimento, valorizada pela sua casca texturizada e bagas vermelhas. É ideal para climas quentes e tolera poda severa.",
+    "link": "https://pt.wikipedia.org/wiki/Schinus_terebinthifolius",
+    "tags": [
+      "tropical",
+      "resistente",
+      "frutífera",
+      "casca"
+    ]
+  },
+  {
+    "nome": "Rosa",
+    "nome_popular": "Roseira",
+    "nome_cientifico": "Rosa chinensis 'Minima'",
+    "descricao": "Utilizada no bonsai por suas micro-flores e folhagem reduzida. Exige muita luz solar e fertilização para promover a floração contínua e evitar doenças fúngicas.",
+    "link": "https://en.wikipedia.org/wiki/Rosa_chinensis",
+    "tags": [
+      "flor",
+      "decídua",
+      "arbusto",
+      "microfolha"
+    ]
+  },
+  {
+    "nome": "Rododendro",
+    "nome_popular": "Rhododendron",
+    "nome_cientifico": "Rhododendron indicum",
+    "descricao": "Arbusto perenifólio intimamente relacionado à Azaleia, mas com folhas maiores. Requer solo altamente ácido e drenagem perfeita. A poda deve ser realizada após a floração.",
+    "link": "https://en.wikipedia.org/wiki/Rhododendron_indicum",
+    "tags": [
+      "flor",
+      "arbusto",
+      "perenifólia",
+      "ácido"
+    ]
+  }
+]

@@ -1,0 +1,253 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap'); /* Importa a fonte Quicksand do Google Fonts com pesos de 300 a 700. */
+
+* {
+    box-sizing: border-box; /* Muda o modelo de caixa para que padding e border não aumentem a largura/altura total do elemento. */
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --primary-color: #859c00; /* Define uma variável para a cor primária. */
+    --secondary-color: #e8eaed; /* Define uma variável para a cor secundária. */
+    --tertiary-color: #859c00; /* Define uma variável para a cor terciária. */
+    --bg-color: #192b00; /* Define uma variável para a cor de fundo. */
+}
+
+body {
+    margin: 0; /* Remove a margem padrão do corpo da página. */
+    background: var(--bg-color); /* Define a cor de fundo usando a variável --bg-color. */
+    color: var(--secondary-color); /* Define a cor do texto padrão usando a variável --secondary-color. */
+    font-family: "Quicksand", sans-serif; /* Define a família de fontes para a página. */
+    background-image: url('fundobonsai.png');
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+header {
+    padding: 2rem 1rem; /* Define o espaçamento interno (2rem em cima/baixo, 1rem nos lados). */
+    display: flex; /* Habilita o layout flexbox para os filhos diretos. */
+    align-items: center; /* Alinha os itens flex no centro do eixo transversal (verticalmente). */
+    position: sticky; /* Faz o cabeçalho "grudar" no topo da tela ao rolar. */
+    top: 0; /* Define a posição superior para o elemento sticky. */
+    background: var(--bg-color); /* Define a cor de fundo. */
+    z-index: 10; /* Define a ordem de empilhamento, garantindo que o header fique sobre outros elementos. */
+    border-bottom: 1px solid var(--bg-color); /* Adiciona uma borda inferior. */
+    gap: 1rem; /* Define um espaçamento entre os itens flex. */
+    max-width: 80rem; /* Define a largura máxima do cabeçalho. */
+    margin: 0 auto; /* Centraliza o cabeçalho horizontalmente. */
+}
+
+header h1 {
+    font-size: 1.5rem; /* Define o tamanho da fonte. */
+    margin: 0; /* Remove a margem. */
+    font-weight: 500; /* Define o peso da fonte. */
+    white-space: nowrap; /* Impede que o texto quebre em várias linhas. */
+}
+
+div input {
+    padding: 0.375rem 0.75rem; /* Define o espaçamento interno. */
+    border-radius: 1rem; /* Arredonda as bordas. */
+    border: 1px solid var(--tertiary-color); /* Define a borda. */
+    background: #213802; /* Define a cor de fundo. */
+    font-family: inherit; /* Herda a família de fontes do elemento pai. */
+    font-size: 1.5rem; /* Define o tamanho da fonte. */
+    transition: all 0.2s ease; /* Adiciona uma transição suave para todas as propriedades. */
+    width: 30rem; /* Define a largura. */
+    color: var(--secondary-color); /* Define a cor do texto. */
+    margin-right: .5rem; /* Adiciona uma margem à direita. */
+}
+
+div input::placeholder {
+    font-size: 1.2rem; /* Define o tamanho da fonte para o texto do placeholder. */
+    font-weight: 300; /* Define o peso da fonte para o texto do placeholder. */
+    color: var(--tertiary-color); /* Define a cor do texto do placeholder. */
+}
+
+div input:focus {
+    outline: none; /* Remove a borda de foco padrão do navegador. */
+    border-color: var(--bg-color); /* Muda a cor da borda quando o input está em foco. */
+    box-shadow: 0 0 0 0.1rem var(--tertiary-color); /* Adiciona uma sombra para simular um contorno de foco. */
+}
+
+#botao-busca {
+    padding: 1rem 2rem; /* Define o espaçamento interno. */
+    border-radius: 1rem; /* Arredonda as bordas. */
+    border: none; /* Remove a borda. */
+    cursor: pointer; /* Muda o cursor para uma mãozinha ao passar sobre o botão. */
+    font-family: inherit; /* Herda a família de fontes do elemento pai. */
+    font-weight: 500; /* Define o peso da fonte. */
+    font-size: 1rem; /* Define o tamanho da fonte. */
+    white-space: nowrap; /* Impede que o texto quebre em várias linhas. */
+    transition: background-color 0.2s ease, color 0.2s ease; /* Adiciona uma transição suave para cor de fundo e cor do texto. */
+    background-color: var(--bg-color); /* Define a cor de fundo. */
+    color: var(--secondary-color); /* Define a cor do texto. */
+    border: 1px solid var(--bg-color); /* Define a borda. */
+}
+
+#botao-busca:hover {
+    background-color: var(--primary-color); /* Muda a cor de fundo ao passar o mouse. */
+    color: var(--bg-color); /* Muda a cor do texto ao passar o mouse. */
+    box-shadow: 0 0 0 0.1rem var(--primary-color); /* Adiciona uma sombra ao passar o mouse. */
+}
+
+#botao-busca:active {
+    transform: scale(0.98); /* Diminui ligeiramente o tamanho do botão quando está sendo pressionado. */
+}
+
+main {
+    overflow-y: scroll; /* Adiciona uma barra de rolagem vertical se o conteúdo exceder a altura. */
+    max-width: 80rem; /* Define a largura máxima. */
+    margin: 0 auto; /* Centraliza o elemento horizontalmente. */
+    height: calc(100vh - 10rem - 4rem); /* Calcula a altura (100% da altura da viewport menos a altura do header e footer). */
+    display: flex;
+}
+
+.card-container {
+    display: flex; /* Habilita o layout flexbox. */
+    flex-wrap: wrap; /* Permite que os itens quebrem para a próxima linha se não houver espaço. */
+    align-items: flex-start; /* Alinha os itens no início do eixo transversal (verticalmente). */
+    justify-content: flex-start; /* Centraliza os itens no eixo principal (horizontalmente). */
+    gap: 1rem; /* Define um espaçamento entre os cards. */
+    padding: 1rem; /* Adiciona espaçamento interno. */
+}
+
+article {
+    padding-bottom: 1.5rem; /* Adiciona espaçamento interno na parte inferior. */
+    width: 400px;
+    min-height: 270px;
+    background-color: rgba(43, 73, 2, 0.4);
+    border-radius: 10px;
+    padding: 0.8rem 1rem;
+}
+
+article:hover {
+    transform: scale(1.01); /* Aumenta ligeiramente o tamanho do artigo ao passar o mouse. */
+    cursor: pointer; /* Muda o cursor para uma mãozinha. */
+}
+
+article h2 {
+    margin-top: 0; /* Remove a margem superior. */
+    font-weight: 600; /* Define o peso da fonte. */
+    font-size: 1.6rem; /* Define o tamanho da fonte. */
+    border-bottom: none; /* Remove a borda inferior. */
+    padding-bottom: 0; /* Remove o espaçamento interno inferior. */
+    margin-bottom: 0.25rem; /* Adiciona uma margem inferior. */
+    color: var(--primary-color); /* Define a cor do texto. */
+}
+
+article p {
+    margin: 0.5rem 0; /* Define as margens (0.5rem em cima/baixo, 0 nos lados). */
+    line-height: 1.6; /* Define a altura da linha para melhor legibilidade. */
+    font-size: 1rem; /* Define o tamanho da fonte. */
+    margin-bottom: 0.5rem; /* Adiciona uma margem inferior (redundante com a primeira linha de 'margin'). */
+    color: var(--secondary-color); /* Define a cor do texto. */
+}
+
+article p strong {
+    color: var(--tertiary-color); /* Define a cor do texto para elementos <strong>. */
+    font-weight: 400; /* Define o peso da fonte para elementos <strong>. */
+}
+
+article a {
+    color: var(--primary-color); /* Define a cor do link. */
+    text-decoration: none; /* Remove o sublinhado do link. */
+    font-weight: 200; /* Define o peso da fonte. */
+}
+
+article a:hover {
+    text-decoration: underline; /* Adiciona sublinhado ao passar o mouse */
+}
+
+.footer {
+    position: absolute; /* Posicionamento absoluto em relação ao elemento pai posicionado (body, se não houver outro). */
+    bottom: 0; /* Alinha na parte inferior da página. */
+    left: 0; /* Alinha à esquerda da página. */
+    width: 100%; /* Ocupa 100% da largura. */
+    color: var(--tertiary-color); /* Define a cor do texto. */
+    background-color: #203600; /* Define a cor de fundo. */
+    padding: 15px 20px; /* Define o espaçamento interno. */
+    border-top: 1px solid #859c00; /* Adiciona uma borda no topo. */
+    font-size: 0.8rem; /* Define o tamanho da fonte. */
+
+}
+
+.footer-location {
+    color: #9aa0a6; /* Define a cor do texto (corresponde a --tertiary-color). */
+    margin-bottom: 10px; /* Adiciona uma margem inferior. */
+}
+
+.footer-links {
+    list-style: none; /* Remove os marcadores de bolinha da lista. */
+    display: flex; /* Habilita o layout flexbox. */
+    flex-wrap: wrap; /* Permite que os itens quebrem para a próxima linha se não houver espaço. */
+    justify-content: center; /* Centraliza os itens da lista no eixo principal (horizontalmente). */
+    gap: 15px; /* Define um espaçamento entre os links. */
+}
+
+.footer-links a {
+    color: var(--secondary-color); /* Define a cor do link. */
+    text-decoration: none; /* Remove o sublinhado do link. */
+    transition: color 0.2s; /* Adiciona uma transição suave para a propriedade color. */
+}
+
+.footer-links a:hover {
+    color: var(--tertiary-color); /* Muda a cor do link ao passar o mouse sobre ele. */
+}
+
+@media (max-width: 768px) {
+    header { /* Inicia um bloco de regras para telas com largura máxima de 768px (tablets e celulares). */
+        flex-direction: column; /* Organiza os itens do cabeçalho em coluna, um abaixo do outro. */
+        padding: 1rem; /* Reduz o espaçamento interno do cabeçalho. */
+    }
+
+    header h1 { /* Estilos para o h1 no cabeçalho em telas menores. */
+        text-align: center; /* Centraliza o texto do título. */
+        margin-bottom: 1rem; /* Adiciona uma margem inferior para separar do campo de busca. */
+    }
+
+    div input { /* Estilos para o input em telas menores. */
+        width: 90vw; /* Define a largura como 90% da largura da viewport (tela). */
+        font-size: 1.2rem; /* Reduz o tamanho da fonte do input. */
+    }
+
+    main { /* Estilos para o conteúdo principal em telas menores. */
+        padding: 0 1rem; /* Adiciona espaçamento lateral para não colar nas bordas da tela. */
+    }
+
+    article:hover { /* Estilos para o artigo em telas menores. */
+        transform: none; /* Remove o efeito de escala ao passar o mouse, comum em dispositivos touch. */
+    }
+}
+
+@media (max-width: 480px) {
+    header h1 { /* Inicia um bloco de regras para telas com largura máxima de 480px (celulares). */
+        font-size: 1rem; /* Reduz ainda mais o tamanho da fonte do título. */
+        max-width: 70%; /* Define uma largura máxima para o título. */
+        word-wrap: break-word; /* Permite que palavras longas quebrem para a próxima linha. */
+    }
+
+    div input, /* Estilos para o input e seu placeholder em telas muito pequenas. */
+    div input::placeholder { /* Aplica a mesma regra para o input e seu placeholder. */
+        font-size: 1rem; /* Reduz o tamanho da fonte. */
+    }
+
+    article h2 { /* Estilos para o h2 do artigo em telas muito pequenas. */
+        font-size: 1.3rem; /* Reduz o tamanho da fonte do subtítulo do artigo. */
+    }
+
+    div { /* Estilos para a div do cabeçalho em telas muito pequenas. (Seletor muito genérico, pode causar problemas). */
+        display: flex; /* Habilita flexbox. */
+        align-items: center; /* Alinha itens ao centro verticalmente. */
+        justify-content: center; /* Centraliza itens horizontalmente. */
+        flex-direction: column; /* Organiza os itens em coluna. */
+        gap: 0.5rem; /* Define um espaçamento entre os itens. */
+    }
+
+    .footer { /* Estilos para o rodapé em telas muito pequenas. */
+        display: none; /* Oculta o rodapé para economizar espaço na tela. */
+    }
+
+    button { /* Estilos para o botão em telas muito pequenas. */
+        margin-top: 1rem; /* Adiciona uma margem no topo do botão. */
+    }
+}
